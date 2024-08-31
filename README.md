@@ -1,2 +1,2 @@
 # Orientame
-Proyecto Oriéntame por favor
+Proyecto Oriéntame
